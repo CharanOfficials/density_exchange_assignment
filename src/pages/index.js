@@ -1,6 +1,5 @@
 import * as React from "react";
 import styled from "styled-components";
-
 const FrameIcon = styled.img`
   position: relative;
   width: 100px;
